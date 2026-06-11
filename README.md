@@ -1,1 +1,1 @@
-# responsive-stylesheet
+# week2-rd-responsive-hw-starter
